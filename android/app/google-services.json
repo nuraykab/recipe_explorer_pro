@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "322401886878",
+    "project_id": "myapp-fe134",
+    "storage_bucket": "myapp-fe134.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322401886878:android:7b3b906812696cc0ccd18f",
+        "android_client_info": {
+          "package_name": "com.example.recipe_explorer_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322401886878-tf1e7prqgikn532sqe63m5c43tg17sfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMZHbh1cSH8V15dNNeNEPD7lV4JB-1OsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322401886878-tf1e7prqgikn532sqe63m5c43tg17sfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "322401886878-c5hha53hhjh027k4pilooa0mgnq1t41q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recipeExplorerPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

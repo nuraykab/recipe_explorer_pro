@@ -1,0 +1,2 @@
+C:/Users/qwzas/Downloads/recipe_explorer_pro/android/app/.cxx/Debug/4e2gr4pu/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/qwzas/Downloads/recipe_explorer_pro/android/app/.cxx/Debug/4e2gr4pu/x86_64/CMakeFiles/rebuild_cache.dir

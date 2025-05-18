@@ -1,0 +1,83 @@
+name: recipe_explorer_pro
+description: '''Chef Brand is a cross-platform mobile application designed for food enthusiasts to explore, search, and manage recipes. The app allows users to browse a vast collection of recipes, filter them by categories, and view detailed cooking instructions. Users can also personalize their experience by saving favorite recipes and adding their own custom recipes.'''
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_auth: ^5.4.1
+  firebase_core: ^3.10.1
+  http: ^1.3.0
+  provider: ^6.1.2
+  cloud_firestore: ^5.6.3
+  flutter_keyboard_visibility: ^6.0.0
+  google_fonts: ^6.2.1
+  url_launcher: ^6.3.1
+  hive_ce: ^2.10.1
+  hive_ce_flutter: ^2.2.0
+  path_provider: ^2.1.5
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  package_info_plus: ^8.2.1
+  google_sign_in: ^6.2.1
+  flutter_facebook_auth: ^6.1.1
+  flutter_web_auth_2: ^4.0.0
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  location: ^5.0.0
+  google_maps_flutter: ^2.6.0
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+  permission_handler: ^11.0.0
+  go_router: ^13.0.0
+  lottie: ^2.6.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  hive_ce_generator: ^1.8.2
+  build_runner: ^2.4.14
+
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  uses-material-design: true
+
+  # Asset management
+  assets:
+    - assets/fonts/poppins/
+    - assets/icons/
+    - assets/profile/
+    - assets/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/poppins/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/poppins/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/poppins/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/poppins/Poppins-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/poppins/Poppins-Black.ttf
+          weight: 900
+        - asset: assets/lottie/loading.json

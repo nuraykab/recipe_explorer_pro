@@ -1,0 +1,2 @@
+C:/Users/qwzas/Downloads/recipe_explorer_pro/android/app/.cxx/Debug/4e2gr4pu/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/qwzas/Downloads/recipe_explorer_pro/android/app/.cxx/Debug/4e2gr4pu/armeabi-v7a/CMakeFiles/rebuild_cache.dir
